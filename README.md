@@ -2,4 +2,4 @@
 - C++/SFML game
 - created by: Sam
 - Date: 4-18-2025
-![Grindlehook Cover](./images/grindlehook.png)
+![Grindlehook Cover|300](./images/grindlehook.png)
